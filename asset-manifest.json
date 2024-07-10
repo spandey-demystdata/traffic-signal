@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/traffic-signal/static/css/main.ced2e126.css",
+    "main.js": "/traffic-signal/static/js/main.5c204772.js",
+    "static/js/453.36868f9d.chunk.js": "/traffic-signal/static/js/453.36868f9d.chunk.js",
+    "index.html": "/traffic-signal/index.html",
+    "main.ced2e126.css.map": "/traffic-signal/static/css/main.ced2e126.css.map",
+    "main.5c204772.js.map": "/traffic-signal/static/js/main.5c204772.js.map",
+    "453.36868f9d.chunk.js.map": "/traffic-signal/static/js/453.36868f9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ced2e126.css",
+    "static/js/main.5c204772.js"
+  ]
+}
